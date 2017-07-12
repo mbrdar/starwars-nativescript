@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/background.png",
+        "source": "/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/res/drawable-xhdpi/logo.png"
+    }
+]

@@ -1,0 +1,38 @@
+<ActionBar title="Star Wars Character Details"></ActionBar>
+<GridLayout columns="*, *" rows="auto, auto">
+    <Image [src]="character?.image" width="200" height="200" col="0" class="thumb img-rounded"></Image>
+    <StackLayout orientation="vertical" row="0" col="1">
+        <StackLayout orientation="horizontal">
+            <Label text="Name: " class="label"></Label>
+            <Label [text]="character?.name"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Gender: " class="label"></Label>
+            <Label [text]="character?.gender"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Skin color: " class="label"></Label>
+            <Label [text]="character?.skin_color"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Hair color: " class="label"></Label>
+            <Label [text]="character?.hair_color"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Height: " class="label"></Label>
+            <Label [text]="character?.height"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Eye color: " class="label"></Label>
+            <Label [text]="character?.eye_color"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Mass: " class="label"></Label>
+            <Label [text]="character?.mass"></Label>
+        </StackLayout>
+        <StackLayout orientation="horizontal">
+            <Label text="Birth year: " class="label"></Label>
+            <Label [text]="character?.birth_year"></Label>
+        </StackLayout>
+    </StackLayout>
+</GridLayout>

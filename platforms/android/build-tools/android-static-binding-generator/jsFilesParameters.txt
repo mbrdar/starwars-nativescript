@@ -1,0 +1,4 @@
+/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/assets/app/app.module.js
+/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/assets/app/character-details/character-details.component.js
+/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/assets/app/characters/characters.component.js
+/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/src/main/assets/app/pipe/filter.pipe.js

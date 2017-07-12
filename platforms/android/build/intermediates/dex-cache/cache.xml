@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-24.2.1_24aae99815f021ca89854a4dfdbc8c0c6d1fc09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_dfe98e03e4f5b8045cb73a82ddc7a80ddc0ee368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_8065594f6cf456d22d7aa74bb573575faccefe02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_61f251b574f35c0dc063fab464dcb847b9bd46cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_3318afc608d5e9bf36418fef597434ebbf6cd6c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_4feffe0d6105517d5cc3c52d05a1552d5d6be664.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_6e1c16245b07d6d2a1dc41a2e143d9d4e47886d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_0d35ae56531d8b2f83463a1a7d89b56bcff94891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-24.2.1_d277c939dc31445ca4a7e556500cb5d15c120f93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_662a1afcf95cd3c4fbbf4367a528cc8293e3bd0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_863e95e3bd38fdfcc5cbc94e5f662f2851e874af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_030b5d42061f9ef62ac6e401da11c8af836dff3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_04a28470058109325dc9f3b084d7e183006282c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_2d6e459e1b5c1469e5994dc7a2b15dbb8f18cd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_11fd5804dede2aed49d76f263b00f6704e8fc57d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_ea58b879bf30c59e5fd15657d3aa57f5480cd4a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/StarWarsNativScripApp/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb501f7cf4d74a5f9ec1a9c8172e552f57ea3215">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/StarWarsNativScripApp-runtime-unspecified_12676b3d3eae9ef2d0b468494c1d21ee83f44526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_ac1326c22bf7b60e804dbdea979aed1b580a9ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_1895980c4a4c7fdfb6dc060ccbfd87cebaf6ec74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/exploded-aar/StarWarsNativScripApp/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/milos.brdar/Desktop/eggheadioangular2/StarWarsNativScripApp/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_13cb76f31586a22e81db0c78ca602c407c3b7234.jar" />
+    </item>
+
+</items>
